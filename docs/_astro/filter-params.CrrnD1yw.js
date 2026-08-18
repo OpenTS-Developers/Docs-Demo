@@ -1,0 +1,1 @@
+function e(e,t){return(e.get(t)??``).replace(/\/+$/,``)}export{e as t};
